@@ -5,7 +5,7 @@
 
 1、打开 https://github.com/glados-network/GLaDOS ，找到[<u>***Register***</u>]，打开链接，填写邮箱进行登录。
 
-2、每天手动进行checkin一次.
+2、每天手动进行checkin一次，自动签到一次.
 
 
 
